@@ -1,0 +1,90 @@
+[
+    {
+        "question": "Which of your five senses tell you if something is hot or cold?",
+        "choice1": "Touch",
+        "choice2": "Smell",
+        "choice3": "Taste",
+        "choice4": "See",
+        "answer": 1
+    },
+    {
+        "question":
+            " What animal goes “Moo”",
+            "choice1": "Cat",
+        "choice2": "Elephant",
+        "choice3": "Bird",
+        "choice4": "Cow",
+        "answer": 4
+    },
+    {
+        "question":
+            " During which festival does Santa come to visit?",
+            "choice1": "Halloween",
+        "choice2": "Ganesh Chaturdhi",
+        "choice3": "Christmas",
+        "choice4": "New Year",
+        "answer": 3
+    },
+    {
+        "question":
+            "Which among is the name of a Dinosaur living on land ?",
+            "choice1": "Crabs",
+        "choice2": "Tyrannosaurus ",
+        "choice3": "Flemingo",
+        "choice4": "Stegosaurus",
+        "answer": 2
+    },
+    {
+        "question":
+            " In the nursery rhyme 'Jack and Jill', what do Jack and Jill go up the hill to fetch?",
+            "choice1": "Jacks watch",
+        "choice2": "To find his mom",
+        "choice3": "A pail of water",
+        "choice4": "To watch sunset",
+        "answer": 3
+    },
+    {
+        "question":
+            " What animal is pink and has a curly tail?",
+            "choice1":"Elephant",
+        "choice2": "cat",
+        "choice3": "Bear",
+        "choice4": "Pig",
+        "answer": 4
+    },
+    {
+        "question":
+            " What animal goes “quack quack”",
+        "choice1": "Cat",
+        "choice2": "Duck",
+        "choice3": "Bird",
+        "choice4": "Cow",
+        "answer": 2
+    },
+    {
+        "question":
+            "What is 10-2?",
+        "choice1": "12",
+        "choice2": "8",
+        "choice3": "2",
+        "choice4": "10",
+        "answer": 2
+    },
+    {
+        "question":
+            " What is 5+22?",
+        "choice1": "25",
+        "choice2": "26",
+        "choice3": "27",
+        "choice4": "28",
+        "answer": 3
+    },
+    {
+        "question": " If you have a bowl with six apples and you take away four, how many do you have?",
+        "choice1": "2",
+        "choice2": "0;",
+        "choice3": "4",
+        "choice4": "6",
+        "answer": 3
+    }
+]
